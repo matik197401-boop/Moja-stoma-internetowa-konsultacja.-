@@ -2,6 +2,8 @@
 
 Rejestr: `Rejestr_ofert_dzialek_40t.csv` (UTF-8, przecinek, nagłówek w 1. wierszu).
 
+**Rejestr główny projektu** (decyzja właściciela z 19.11.2026). Rejestry ChatGPT Work i Grok Bot (SZEFO) wyłącza właściciel.
+
 ## Kryteria
 - Obszar: Radzionków, Wojkowice, Piekary Śląskie, Będzin, Czeladź.
 - Powierzchnia 3 000–15 000 m²; priorytet: grunty rolne kl. IV–V.
