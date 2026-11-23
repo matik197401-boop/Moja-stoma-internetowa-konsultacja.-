@@ -10,6 +10,7 @@ Rejestr sprzedaży: `Rejestr_ofert_dzialek_40t.csv` (UTF-8, przecinek, nagłówe
 - Dojazd prawny i fizyczny dla ciągnika siodłowego z naczepą, DMC 40 t.
 - Garaż lub kontener na zgłoszenie (bez pozwolenia na budowę).
 - Zmiana z 19.11.2026: szukamy możliwie najtańszej ziemi. Kandydaci są sortowani rosnąco po zł/m² (kolumna `ranking_cenowy`). Oferty z pozwoleniem na budowę (PNB) lub gotowym projektem wykluczamy.
+- Zmiana z 23.11.2026: wykluczamy oferty sprzedaży powyżej 100 zł/m² (status `odpada`, zostają w rejestrze, żeby nie dopisywać ich ponownie). Ofert poza kryteriami (powierzchnia, obszar, dzierżawy poniżej 1 000 m²) nie zapisujemy i nie raportujemy.
 
 ## Dzierżawa (od 19.11.2026)
 Rejestr: `Rejestr_dzierzaw_40t.csv`. Ten sam obszar i codzienna kontrola. Szukamy utwardzonego placu lub terenu o powierzchni co najmniej 1 000 m², z dojazdem dla zestawu 40 t i z obiektem na terenie albo możliwością postawienia garażu lub kontenera. Kandydaci są sortowani rosnąco po czynszu za m².
