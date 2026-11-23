@@ -21,3 +21,6 @@ Rejestr: `Rejestr_dzierzaw_40t.csv`. Ten sam obszar i codzienna kontrola. Szukam
 
 ## Ograniczenie z 19.11.2026
 Sieć sesji nie dopuszcza portali ogłoszeń ani geoportali. Dane pochodzą z podsumowań wyszukiwarki, a strony ofert nie były otwierane. Żaden warunek nie ma statusu `potwierdzone`.
+
+## Źródła dodatkowe (od 23.11.2026)
+Przetargi gminne i wykazy nieruchomości w BIP (sprzedaż i dzierżawa), np. piekaryslaskie.bip.net.pl, powiat.bedzin.pl. Agregatory: listaprzetargow.pl, przetargi.adradar.pl.
